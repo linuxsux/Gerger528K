@@ -1,0 +1,458 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) CCconfig         4) imkl/2020.1.217    7) libfabric/1.10.1
+  2) gentoo/2020      5) intel/2020.1.217   8) openmpi/4.0.3
+  3) gcccore/.9.3.0   6) ucx/1.8.0          9) StdEnv/2020
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+The environment has already been set by the module.
+Not making any changes.
+The environment has already been set by the module.
+Not making any changes.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source PPO.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./PPO.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+Loading Mol2 file: ../ligand_files/PPO.mol2
+Reading MOLECULE named PPO
+Loading parameters: ../ligand_files/PPO.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Building topology.
+Building atom parameters.
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 0; Notes = 0.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source GGC.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./GGC.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+Loading Mol2 file: ../ligand_files/GGC.mol2
+Reading MOLECULE named gerger
+Loading parameters: ../ligand_files/GGC.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Building topology.
+Building atom parameters.
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 0; Notes = 0.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/prep to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm to search path.
+-I: Adding /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd to search path.
+-f: Source complex.in.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./complex.in
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/amino12.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/aminoct12.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/aminont12.lib
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.gaff done
+Log file: ./leap.log
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/gaff.dat
+Reading title:
+AMBER General Force Field for organic molecules (Version 1.81, May 2017)
+----- Source: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.water.tip3p
+----- Source of /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/cmd/leaprc.water.tip3p done
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/atomic_ions.lib
+Loading library: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/lib/solvents.lib
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+This is the additional/replacement parameter set for TIP3P water
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ions1lm_126_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Li/Merz ion parameters of monovalent ions for TIP3P water model (12-6 normal usage set)
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ionsjc_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Monovalent ion parameters for Ewald and TIP3P water from Joung & Cheatham JPCB (2008)
+Loading parameters: /cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/dat/leap/parm/frcmod.ions234lm_126_tip3p
+Reading force field modification type file (frcmod)
+Reading title:
+Li/Merz ion parameters of divalent to tetravalent ions for TIP3P water model (12-6 normal usage set)
+Loading parameters: ../ligand_files/PPO.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Loading parameters: ../ligand_files/GGC.frcmod
+Reading force field modification type file (frcmod)
+Reading title:
+Remark line goes here
+Loading library: ../ligand_files/PPO.lib
+Loading library: ../ligand_files/GGC.lib
+Loading PDB file: ../TXS-gerger_start.pdb
+ (starting new molecule for chain A)
+  total atoms in file: 12626
+Adding 22 counter ions to "complex" using 1A grid
+Grid extends from solute vdw + 3.89  to  9.99
+Resolution:      1.00 Angstrom.
+ (no solvent present)
+Calculating grid charges
+Placed Na+ in complex at (56.02, 12.08, 87.07).
+Placed Na+ in complex at (60.02, 35.08, 58.07).
+Placed Na+ in complex at (68.02, -9.92, 72.07).
+Placed Na+ in complex at (25.02, 50.08, 59.07).
+Placed Na+ in complex at (68.02, 7.08, 79.07).
+Placed Na+ in complex at (34.02, 19.08, 92.07).
+Placed Na+ in complex at (54.02, 49.08, 73.07).
+Placed Na+ in complex at (45.02, 1.08, 34.07).
+Placed Na+ in complex at (41.02, 75.08, 45.07).
+Placed Na+ in complex at (32.02, 1.08, 102.07).
+Placed Na+ in complex at (60.02, 72.08, 37.07).
+Placed Na+ in complex at (57.02, 32.08, 66.07).
+Placed Na+ in complex at (24.02, -14.92, 67.07).
+Placed Na+ in complex at (63.02, -2.92, 65.07).
+Placed Na+ in complex at (12.02, 45.08, 46.07).
+Placed Na+ in complex at (44.02, -27.92, 83.07).
+Placed Na+ in complex at (59.02, 11.08, 33.07).
+Placed Na+ in complex at (17.02, 25.08, 74.07).
+Placed Na+ in complex at (38.02, -5.92, 58.07).
+Placed Na+ in complex at (47.02, -3.92, 102.07).
+Placed Na+ in complex at (54.02, 55.08, 26.07).
+Placed Na+ in complex at (29.02, 57.08, 69.07).
+
+Done adding ions.
+Scaling up box by a factor of 1.135560 to meet diagonal cut criterion
+  Solute vdw bounding box:              58.558 117.966 72.285
+  Total bounding box for atom centers:  140.678 140.678 140.678
+      (box expansion for 'iso' is 156.3%)
+  Solvent unit box:                     18.774 18.774 18.774
+  Volume: 1421916.553 A^3 (oct)
+  Total mass 793181.525 amu,  Density 0.926 g/cc
+  Added 38968 residues.
+Adding 256 counter ions to "complex". 38712 solvent molecules will remain.
+0: Placed Na+ in complex at (-21.08, -14.05, -42.27).
+Placed Cl- in complex at (2.64, -27.78, 54.35).
+0: Placed Na+ in complex at (-48.51, -20.32, -3.06).
+Placed Cl- in complex at (13.27, -28.28, -56.31).
+0: Placed Na+ in complex at (22.88, 16.96, 23.75).
+Placed Cl- in complex at (-30.55, -18.02, 35.65).
+0: Placed Na+ in complex at (-58.02, -21.62, -17.13).
+Placed Cl- in complex at (22.49, -12.49, 8.10).
+0: Placed Na+ in complex at (22.88, 16.96, -29.35).
+Placed Cl- in complex at (2.61, -52.84, 9.51).
+0: Placed Na+ in complex at (53.39, 10.73, -18.15).
+Placed Cl- in complex at (-9.90, -32.71, -14.55).
+0: Placed Na+ in complex at (12.08, 41.60, 41.99).
+Placed Cl- in complex at (-36.15, -24.18, -23.77).
+0: Placed Na+ in complex at (40.62, -26.02, -39.80).
+Placed Cl- in complex at (-56.96, -16.29, -34.71).
+0: Placed Na+ in complex at (-10.77, -4.08, -52.31).
+Placed Cl- in complex at (2.49, 63.82, 9.35).
+0: Placed Na+ in complex at (-5.24, -16.57, 61.23).
+Placed Cl- in complex at (-55.53, 1.28, -9.49).
+0: Placed Na+ in complex at (31.08, 18.40, -17.20).
+Placed Cl- in complex at (32.42, 42.96, -22.10).
+0: Placed Na+ in complex at (50.55, 37.41, 27.85).
+Placed Cl- in complex at (25.18, -20.07, 17.05).
+0: Placed Na+ in complex at (-45.79, 33.61, 16.69).
+Placed Cl- in complex at (21.18, -38.13, -31.14).
+0: Placed Na+ in complex at (45.51, -39.61, 32.16).
+Placed Cl- in complex at (60.20, 15.00, 9.92).
+0: Placed Na+ in complex at (-25.33, -0.91, -11.98).
+Placed Cl- in complex at (-0.81, -42.93, 21.68).
+0: Placed Na+ in complex at (-47.01, 37.41, 27.85).
+Placed Cl- in complex at (-13.60, -23.95, -47.99).
+0: Placed Na+ in complex at (52.89, -9.43, -18.77).
+Placed Cl- in complex at (16.17, -20.46, 3.45).
+0: Placed Na+ in complex at (-34.00, -15.99, 11.46).
+Placed Cl- in complex at (19.78, 54.47, -11.42).
+0: Placed Na+ in complex at (-22.12, -37.18, 5.82).
+Placed Cl- in complex at (-0.67, 62.75, 31.15).
+0: Placed Na+ in complex at (44.17, -4.83, -31.73).
+Placed Cl- in complex at (15.11, -15.78, 11.91).
+0: Placed Na+ in complex at (-4.81, 4.05, 46.20).
+Placed Cl- in complex at (-35.57, 29.66, -20.18).
+0: Placed Na+ in complex at (-21.97, -53.97, 0.05).
+Placed Cl- in complex at (25.84, 8.35, 35.60).
+0: Placed Na+ in complex at (-1.03, 10.86, -28.71).
+Placed Cl- in complex at (49.52, -22.35, -8.94).
+0: Placed Na+ in complex at (24.62, -37.45, 48.96).
+Placed Cl- in complex at (37.85, 10.20, -49.65).
+0: Placed Na+ in complex at (8.23, -16.11, 64.78).
+Placed Cl- in complex at (-42.93, 6.89, 16.06).
+0: Placed Na+ in complex at (-11.87, -4.47, -55.26).
+Placed Cl- in complex at (-11.13, 7.34, -26.50).
+0: Placed Na+ in complex at (3.50, 18.25, 56.88).
+Placed Cl- in complex at (51.89, -0.17, -25.28).
+0: Placed Na+ in complex at (32.79, -47.55, -32.40).
+Placed Cl- in complex at (-23.06, 40.75, 50.19).
+0: Placed Na+ in complex at (-22.15, -52.46, -16.08).
+Placed Cl- in complex at (16.40, 32.76, -46.38).
+0: Placed Na+ in complex at (29.94, 41.31, 6.32).
+Placed Cl- in complex at (17.79, -16.47, 12.24).
+0: Placed Na+ in complex at (10.10, 30.28, -28.07).
+Placed Cl- in complex at (-3.89, -47.13, -14.31).
+0: Placed Na+ in complex at (27.02, 15.11, 1.21).
+Placed Cl- in complex at (-15.29, 35.55, -10.82).
+0: Placed Na+ in complex at (-34.41, -22.18, 41.68).
+Placed Cl- in complex at (29.40, -9.98, 18.80).
+0: Placed Na+ in complex at (21.01, 1.43, 4.60).
+Placed Cl- in complex at (41.06, 17.88, -18.82).
+0: Placed Na+ in complex at (-9.16, -10.33, 40.36).
+Placed Cl- in complex at (51.07, 26.44, 25.15).
+0: Placed Na+ in complex at (17.23, 12.55, -24.09).
+Placed Cl- in complex at (5.05, 34.52, -21.62).
+0: Placed Na+ in complex at (-21.41, -32.22, -5.84).
+Placed Cl- in complex at (0.71, 56.04, -20.37).
+0: Placed Na+ in complex at (-18.50, 13.81, 54.36).
+Placed Cl- in complex at (-27.93, -35.73, -15.36).
+0: Placed Na+ in complex at (-35.13, -54.43, -28.15).
+Placed Cl- in complex at (21.21, -37.13, 10.47).
+0: Placed Na+ in complex at (-21.23, -14.06, -52.67).
+Placed Cl- in complex at (28.87, 29.74, -11.98).
+0: Placed Na+ in complex at (54.37, 37.19, 30.26).
+Placed Cl- in complex at (26.26, -28.07, 51.02).
+0: Placed Na+ in complex at (29.46, 6.67, -6.91).
+Placed Cl- in complex at (52.00, 7.57, -34.00).
+0: Placed Na+ in complex at (-40.71, -2.51, -53.85).
+Placed Cl- in complex at (-29.72, 24.33, -6.98).
+0: Placed Na+ in complex at (1.48, -36.18, -12.42).
+Placed Cl- in complex at (-54.94, -38.70, 11.75).
+0: Placed Na+ in complex at (39.09, 4.76, -39.10).
+Placed Cl- in complex at (-51.44, 16.40, -24.44).
+0: Placed Na+ in complex at (0.07, -38.38, 49.08).
+Placed Cl- in complex at (-33.91, 16.72, 42.87).
+0: Placed Na+ in complex at (-3.12, -32.97, 5.53).
+Placed Cl- in complex at (-27.79, -17.93, 45.53).
+0: Placed Na+ in complex at (5.06, -41.09, 17.54).
+Placed Cl- in complex at (42.30, -26.44, 5.73).
+0: Placed Na+ in complex at (-27.61, -50.62, -1.60).
+Placed Cl- in complex at (-27.19, 33.19, 43.28).
+0: Placed Na+ in complex at (-38.30, -10.43, -35.56).
+Placed Cl- in complex at (-55.58, 40.75, -29.46).
+0: Placed Na+ in complex at (2.12, 4.89, -43.13).
+Placed Cl- in complex at (48.10, 10.98, -22.40).
+0: Placed Na+ in complex at (32.95, 22.21, 42.61).
+Placed Cl- in complex at (-59.97, 4.90, -35.56).
+0: Placed Na+ in complex at (-38.01, -7.88, 14.49).
+Placed Cl- in complex at (-60.39, 33.50, -13.47).
+0: Placed Na+ in complex at (37.86, -38.54, 14.49).
+Placed Cl- in complex at (-29.01, 47.21, 17.55).
+0: Placed Na+ in complex at (16.67, 0.93, 60.27).
+Placed Cl- in complex at (6.17, -60.67, 4.34).
+0: Placed Na+ in complex at (-57.16, 16.59, -12.14).
+Placed Cl- in complex at (-31.37, -30.64, -9.82).
+0: Placed Na+ in complex at (-26.72, 6.29, -51.07).
+Placed Cl- in complex at (56.35, -1.29, 45.43).
+0: Placed Na+ in complex at (-6.66, 36.93, -40.89).
+Placed Cl- in complex at (13.47, -35.45, -12.03).
+0: Placed Na+ in complex at (51.90, 33.21, 7.73).
+Placed Cl- in complex at (-54.17, 35.26, -29.94).
+0: Placed Na+ in complex at (-35.28, -54.61, 5.11).
+Placed Cl- in complex at (-16.71, 50.66, -24.44).
+0: Placed Na+ in complex at (-51.71, -35.82, 22.63).
+Placed Cl- in complex at (1.48, -59.18, 27.40).
+0: Placed Na+ in complex at (7.19, 45.07, 41.12).
+Placed Cl- in complex at (55.44, -39.05, 11.46).
+0: Placed Na+ in complex at (17.75, -14.03, -42.29).
+Placed Cl- in complex at (30.73, 10.71, -44.45).
+0: Placed Na+ in complex at (-15.25, -2.86, 39.19).
+Placed Cl- in complex at (-5.44, 33.08, 42.46).
+0: Placed Na+ in complex at (2.36, -32.08, 40.30).
+Placed Cl- in complex at (31.86, -11.85, 29.66).
+0: Placed Na+ in complex at (52.00, 30.56, -20.73).
+Placed Cl- in complex at (44.83, 2.14, -25.70).
+0: Placed Na+ in complex at (25.84, 51.96, 29.28).
+Placed Cl- in complex at (-54.11, -26.82, 17.54).
+0: Placed Na+ in complex at (9.91, -27.02, 51.53).
+Placed Cl- in complex at (48.42, 20.22, 17.54).
+0: Placed Na+ in complex at (29.45, 32.37, 14.78).
+Placed Cl- in complex at (44.97, 17.79, 15.59).
+0: Placed Na+ in complex at (35.15, -27.78, 27.80).
+Placed Cl- in complex at (-34.20, -15.83, -26.57).
+0: Placed Na+ in complex at (-53.93, 11.73, -7.61).
+Placed Cl- in complex at (7.36, 22.35, 57.44).
+0: Placed Na+ in complex at (-37.61, -17.46, -0.86).
+Placed Cl- in complex at (-51.02, -32.18, 1.26).
+0: Placed Na+ in complex at (32.69, 29.53, -36.11).
+Placed Cl- in complex at (-36.93, 12.47, 12.63).
+0: Placed Na+ in complex at (-48.51, 25.67, -3.06).
+Placed Cl- in complex at (-15.86, 36.88, -1.01).
+0: Placed Na+ in complex at (32.23, 22.67, -26.50).
+Placed Cl- in complex at (-56.50, 17.88, 34.28).
+0: Placed Na+ in complex at (57.80, 8.06, -14.29).
+Placed Cl- in complex at (0.45, -29.39, 0.43).
+0: Placed Na+ in complex at (-16.02, 39.87, 23.45).
+Placed Cl- in complex at (-18.12, -3.84, -40.85).
+0: Placed Na+ in complex at (53.05, 17.43, 34.86).
+Placed Cl- in complex at (6.43, 27.80, -13.92).
+0: Placed Na+ in complex at (-28.25, -8.11, -54.47).
+Placed Cl- in complex at (34.20, -40.99, 40.36).
+0: Placed Na+ in complex at (15.11, -38.77, 25.18).
+Placed Cl- in complex at (-7.14, 27.53, -6.38).
+0: Placed Na+ in complex at (25.18, 25.91, -36.05).
+Placed Cl- in complex at (26.32, -27.82, 39.63).
+0: Placed Na+ in complex at (-3.74, -45.03, -35.04).
+Placed Cl- in complex at (-11.31, -37.13, 37.02).
+0: Placed Na+ in complex at (9.52, 46.57, 29.41).
+Placed Cl- in complex at (14.02, -32.18, -51.84).
+0: Placed Na+ in complex at (-55.53, 24.28, -22.76).
+Placed Cl- in complex at (-25.58, 2.04, -19.32).
+0: Placed Na+ in complex at (55.88, -10.33, -39.29).
+Placed Cl- in complex at (-33.19, -29.22, 31.15).
+0: Placed Na+ in complex at (46.78, -23.41, -28.76).
+Placed Cl- in complex at (-5.04, 59.94, -11.24).
+0: Placed Na+ in complex at (-22.98, 44.23, -5.50).
+Placed Cl- in complex at (-21.65, 12.27, -69.77).
+0: Placed Na+ in complex at (-54.70, 15.53, 8.68).
+Placed Cl- in complex at (50.88, -29.24, 25.54).
+0: Placed Na+ in complex at (36.04, 6.38, -18.55).
+Placed Cl- in complex at (6.78, 12.97, -47.31).
+0: Placed Na+ in complex at (-6.39, 39.21, 1.59).
+Placed Cl- in complex at (-24.41, 42.70, -36.50).
+0: Placed Na+ in complex at (-3.31, -43.42, 22.93).
+Placed Cl- in complex at (-50.96, 23.14, -31.53).
+0: Placed Na+ in complex at (21.18, -38.13, -4.59).
+Placed Cl- in complex at (-12.23, 24.39, -50.06).
+0: Placed Na+ in complex at (-3.06, -39.32, 46.20).
+Placed Cl- in complex at (-43.86, -35.38, 26.87).
+0: Placed Na+ in complex at (-36.00, -32.16, -30.70).
+Placed Cl- in complex at (-21.19, 45.44, -21.53).
+0: Placed Na+ in complex at (38.55, -3.62, 32.92).
+Placed Cl- in complex at (17.23, -16.84, 22.21).
+0: Placed Na+ in complex at (31.83, -40.12, 20.61).
+Placed Cl- in complex at (28.87, -16.24, 41.12).
+0: Placed Na+ in complex at (48.25, 8.54, -20.38).
+Placed Cl- in complex at (21.61, -51.61, -34.16).
+0: Placed Na+ in complex at (-18.18, -58.40, -22.77).
+Placed Cl- in complex at (-54.17, 29.16, -15.82).
+0: Placed Na+ in complex at (8.11, 19.71, -23.22).
+Placed Cl- in complex at (-1.53, 44.76, 10.82).
+0: Placed Na+ in complex at (52.81, -21.60, -23.51).
+Placed Cl- in complex at (14.44, -7.27, 65.36).
+0: Placed Na+ in complex at (-56.00, 10.52, 40.48).
+Placed Cl- in complex at (-56.50, 9.02, 0.12).
+0: Placed Na+ in complex at (-0.51, 59.41, -18.58).
+Placed Cl- in complex at (23.88, 40.45, -1.25).
+0: Placed Na+ in complex at (-19.75, 47.78, -37.26).
+Placed Cl- in complex at (15.29, 23.88, 28.14).
+0: Placed Na+ in complex at (4.90, -5.57, 39.25).
+Placed Cl- in complex at (-10.77, -50.06, 0.79).
+0: Placed Na+ in complex at (35.95, -0.83, 13.58).
+Placed Cl- in complex at (-29.10, -38.74, -2.21).
+0: Placed Na+ in complex at (12.96, 20.22, 36.52).
+Placed Cl- in complex at (-44.50, -51.55, 21.59).
+0: Placed Na+ in complex at (42.94, -17.46, 46.36).
+Placed Cl- in complex at (34.00, 32.80, 0.85).
+0: Placed Na+ in complex at (22.64, 38.18, 38.97).
+Placed Cl- in complex at (-22.37, -1.79, -19.22).
+0: Placed Na+ in complex at (11.44, -37.05, -55.55).
+Placed Cl- in complex at (51.90, 1.35, -39.71).
+0: Placed Na+ in complex at (-43.29, -30.72, -17.30).
+Placed Cl- in complex at (13.88, -47.44, 43.64).
+0: Placed Na+ in complex at (-44.05, 13.54, -19.22).
+Placed Cl- in complex at (8.64, -7.76, 45.65).
+0: Placed Na+ in complex at (33.33, -43.15, -45.00).
+Placed Cl- in complex at (-8.20, -20.12, 41.07).
+0: Placed Na+ in complex at (-27.61, -27.63, 11.67).
+Placed Cl- in complex at (-39.04, -11.75, -41.32).
+0: Placed Na+ in complex at (40.04, -21.57, -40.84).
+Placed Cl- in complex at (-12.37, 52.43, -29.01).
+0: Placed Na+ in complex at (-32.35, 6.53, 56.81).
+Placed Cl- in complex at (39.46, -8.81, 25.52).
+0: Placed Na+ in complex at (-21.74, -66.93, 18.95).
+Placed Cl- in complex at (-29.76, 47.06, 2.11).
+0: Placed Na+ in complex at (48.78, 30.28, 31.24).
+Placed Cl- in complex at (59.55, 23.62, -16.25).
+0: Placed Na+ in complex at (-21.19, 22.45, -61.36).
+Placed Cl- in complex at (-37.55, -55.03, 2.03).
+0: Placed Na+ in complex at (29.18, 64.72, 3.11).
+Placed Cl- in complex at (-36.45, 1.30, -42.29).
+0: Placed Na+ in complex at (-22.61, -50.01, 11.71).
+Placed Cl- in complex at (-11.34, -38.13, -4.59).
+0: Placed Na+ in complex at (-45.66, -46.16, -25.28).
+Placed Cl- in complex at (26.41, -10.27, 5.71).
+0: Placed Na+ in complex at (37.58, 4.90, -35.56).
+Placed Cl- in complex at (-34.20, 7.16, -39.85).
+0: Placed Na+ in complex at (-16.26, -38.70, 17.97).
+Placed Cl- in complex at (-47.81, -33.43, 2.46).
+0: Placed Na+ in complex at (-16.62, 43.22, -48.83).
+Placed Cl- in complex at (-50.50, 12.20, -6.38).
+0: Placed Na+ in complex at (46.85, -35.40, -36.05).
+Placed Cl- in complex at (33.45, 51.60, 25.27).
+0: Placed Na+ in complex at (44.83, 25.13, 40.68).
+Placed Cl- in complex at (14.55, 13.64, -47.70).
+0: Placed Na+ in complex at (-46.33, -3.09, 46.76).
+Placed Cl- in complex at (26.26, 17.92, 24.47).
+0: Placed Na+ in complex at (-45.66, 31.31, 25.68).
+Placed Cl- in complex at (9.78, 65.53, 5.73).
+Checking Unit.
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Warning!
+The unperturbed charge of the unit (1.000000) is not zero.
+
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/avx2/MPI/gcc9/cuda11.4/openmpi4/amber/20.12-20.15/bin/teLeap: Note.
+Ignoring the warning from Unit Checking.
+
+Building topology.
+Building atom parameters.
+Building bond parameters.
+Building angle parameters.
+Building proper torsion parameters.
+Building improper torsion parameters.
+ total 2636 improper torsions applied
+Building H-Bond parameters.
+Incorporating Non-Bonded adjustments.
+Not Marking per-residue atom chain types.
+Marking per-residue atom chain types.
+  (Residues lacking connect0/connect1 - 
+   these don't have chain types marked:
+
+	res	total affected
+
+	CVAL	1
+	GGC	1
+	NMET	1
+	PPO	1
+	WAT	38712
+  )
+ (no restraints)
+	Quit
+
+Exiting LEaP: Errors = 0; Warnings = 1; Notes = 1.
